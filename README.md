@@ -23,7 +23,7 @@ yarn dev //启动本地调试
 ## 后端运行
  ```
 yarn  //下载依赖
-node sync.js  //同步数据库表结构
+node sync.js  //同步数据库表结构 或者使用已经上传的sql文件
 yarn start //启动本地调试        
  ```
 ## 项目截图
